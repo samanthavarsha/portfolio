@@ -1,11 +1,11 @@
 li{
     display :inline;
     padding: 10px;
-    margin: 10px;
+    margin: 30px;
 }
 img{
     position: absolute;
-    right: 40%;
+    right: 35%;
     bottom: 250px;
     height: 350px;
     border-radius: 100%;

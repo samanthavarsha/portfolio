@@ -1,15 +1,15 @@
 li{
     display :inline;
     padding: 10px;
-    margin: 30px;
+    margin: 10px;
 }
 img{
     position: absolute;
-    right: 35%;
-    bottom: 250px;
-    height: 350px;
+    right: 40%;
+    bottom: 350px;
+    height: 250px;
     border-radius: 100%;
-    width: 350px;
+    width: 250px;
     border: 2px solid  orangered;
     
 }
